@@ -19,7 +19,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 <java.version>1.8</java.version>
 <sonar.host.url>http://20.97.17.49:9000</sonar.host.url>
 <sonar.login>admin</sonar.login> 
-<sonar.password>admin123</sonar.password>
+<sonar.password>Jyothsna99@@</sonar.password>
 </properties> 
 <dependencies>
 <dependency>
