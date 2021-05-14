@@ -11,7 +11,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 </parent>
 <groupId>com.hcl</groupId>
 <artifactId>parking</artifactId>
-<version>0.0.1-SNAPSHOT</version>
+<version>0.3</version>
 <packaging>jar</packaging> 
 <name>parking</name>
 <description>Demo project for Spring Boot</description>
